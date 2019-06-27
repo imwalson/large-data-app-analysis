@@ -11,6 +11,8 @@
 ### 类别一：APP 下载量预估，排名，排行榜, ASO服务，行业数据等
 
 #### 官方 AppStore
+官方接口：  https://itunes.apple.com/cn/rss/ 
+
 备注：  查看 APP 的下载量、排名、点评等
 
 #### 七麦数据
@@ -33,6 +35,11 @@
 网址：  https://index.iresearch.com.cn/app
 
 简介：  艾瑞APP指数提供海量数据实时查询，为您选择最佳投放方案提供数据支持；帮助您了解自身的产品用户群体特征以及市场竞争差异
+
+#### 艾媒北极星
+网址：  http://bjx.iimedia.cn/app_rank
+
+简介：  艾媒北极星-全球领先的移动互联网产品对标分析平台
 
 #### 极光大数据
 网址：  https://www.jiguang.cn/iapp  
@@ -100,6 +107,7 @@
 #### 联通沃指数app排行榜
 
 网址：  http://www.199it.com/archives/tag/%e6%b2%83%e6%8c%87%e6%95%b0 
+
 简介：  基于联通大数据的行业报告，一般通过媒体报告形式发布，没有专门的网站。示例： http://www.199it.com/archives/760266.html
 
 #### appa
@@ -222,3 +230,7 @@ https://www.zhihu.com/question/34868845
 https://www.zhihu.com/question/21112153/answer/17643579
 
 https://36kr.com/p/5154112
+
+https://github.com/i-trista/PM
+
+https://iamzx.github.io/2017/big-data-website-navigation/
